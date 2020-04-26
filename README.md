@@ -6,4 +6,4 @@ The Flask app was genetated and scrape_mars.py is the python code converted from
 
 The two figures are screenshots of the flask app while running
 
-HTML code is present in the master and under the Resources folder. 
+HTML code is present in the master and under the templates folder. 
